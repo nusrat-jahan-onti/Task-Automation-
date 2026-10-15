@@ -1,0 +1,6 @@
+john.doe@example.com
+billing@company.org
+accounts@company.org
+nusrat_99@gmail.com
+rafi.ahmed@university.edu.bd
+sara+notes@mail.net

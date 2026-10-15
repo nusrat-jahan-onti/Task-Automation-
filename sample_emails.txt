@@ -1,0 +1,13 @@
+Hello team,
+
+Please contact john.doe@example.com for the project schedule.
+For billing questions write to billing@company.org or accounts@company.org.
+
+Our student helpers are: nusrat_99@gmail.com, rafi.ahmed@university.edu.bd
+and sara+notes@mail.net.
+
+Duplicate (should appear only once): JOHN.DOE@example.com
+
+This line has no email, just text like hello@ or @world and 12345.
+
+Thanks!
