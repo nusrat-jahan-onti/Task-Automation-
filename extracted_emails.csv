@@ -1,0 +1,10 @@
+No,Email,Domain,Times Found,Found In
+1,accounts@company.org,company.org,1,team_list.txt
+2,billing@company.org,company.org,1,team_list.txt
+3,john.doe@example.com,example.com,3,newsletter.txt; team_list.txt
+4,mim@university.edu.bd,university.edu.bd,1,newsletter.txt
+5,nusrat_99@gmail.com,gmail.com,2,newsletter.txt; team_list.txt
+6,rafi.ahmed@university.edu.bd,university.edu.bd,1,team_list.txt
+7,sara+notes@mail.net,mail.net,1,team_list.txt
+8,support@company.org,company.org,1,newsletter.txt
+9,tanvir.hossain@gmail.com,gmail.com,1,newsletter.txt

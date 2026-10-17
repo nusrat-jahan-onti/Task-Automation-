@@ -1,0 +1,9 @@
+Weekly Newsletter - Subscribers
+
+nusrat_99@gmail.com
+tanvir.hossain@gmail.com
+mim@university.edu.bd
+support@company.org
+john.doe@example.com
+
+Broken ones that must be ignored: john..doe@example.com, user@domain

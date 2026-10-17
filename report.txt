@@ -1,0 +1,18 @@
+CodeAlpha Python Programming - Task 3
+Smart Email Extractor - Report
+========================================
+Source               : sample_data
+Files scanned        : 3
+Files skipped        : 0
+Emails found (total) : 12
+Unique emails        : 9
+Duplicates removed   : 3
+Emails saved         : 9
+Most repeated email  : john.doe@example.com (3 times)
+
+Emails per domain:
+  company.org               3
+  gmail.com                 2
+  university.edu.bd         2
+  example.com               1
+  mail.net                  1
